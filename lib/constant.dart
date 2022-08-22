@@ -1,0 +1,11 @@
+const String kAlbumName   = "albumName";
+const String kFilePath    = "filePath";
+const String kArtist      = "artistName" ;
+const String kDisplayName = "displayName";
+const String kTitle       = "title";
+const String kAlbumID     = "album_id";
+const String kFileSize    = "fileSize";
+const String kSongID      = "id";
+const String kDuration    = "duration";
+const String kUsersTableName = "FavoriteSongs" ;
+const String kInFavorites    ="inFavorites" ;

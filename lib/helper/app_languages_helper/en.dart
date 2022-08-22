@@ -1,0 +1,31 @@
+const Map<String , String> en = {
+  "mazekty" : "MAZEKTY",
+  "allSongs" : "All Songs",
+  "albums"  : "Albums",
+  "artists" : "Artists",
+  "favorite" : "Favorites",
+  "details" : "Details",
+  "allDetails" : "All Details",
+  "name" : "Name",
+  "artist" : "Artist",
+  "size" : "Size",
+  "duration" : "Duration",
+  "path" : "path",
+  "numberOfSongs" : "Number of songs",
+  "numberOfAlbums: " : "Number of albums",
+  "numberOfSongs: " : "Number of songs",
+  "playing" : "playing...",
+  "emptyExpression" : "No Audio Files On Your Device Till Now" ,
+  "noAlbums" : "No Albums",
+  "noArtists" : "No Artists",
+  "pause" : "Paused",
+  "noData" : "Favorites Is Empty",
+  "selectLanguage" :"Select Language",
+  "notification" : "New Notification",
+  "removeFromFavorite" :"Success Remove From Favorite",
+  "addToFavorite" :"Success Add To Favorite",
+  "inLoopMode" : "Loop Mode Is Activated",
+  "closeLoopMode" : "Loop Mode Is Closed"
+
+
+};
